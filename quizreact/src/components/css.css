@@ -1,0 +1,44 @@
+.form-check-input
+{
+    padding: 30px;
+    width: 30px;
+    height: 30px;
+    
+}
+.form-check-label
+{
+    
+    padding-top: 6px;
+    padding-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+    
+}
+.form-check
+{
+    padding: 30px;
+}
+.pitanje
+{
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+.kategorija
+{
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    border: 2px solid blue;
+    border-radius: 10%;
+}
+.container {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
